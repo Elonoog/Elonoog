@@ -21,8 +21,28 @@ Me chamo Eloisa Nogueira, tenho 27 anos e atualmente estou cursando o quarto sem
     </a>
 </p>
 
----
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Elonoog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="rigth" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elonoog&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+<p>
+    
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -67,25 +87,10 @@ Me chamo Eloisa Nogueira, tenho 27 anos e atualmente estou cursando o quarto sem
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Elonoog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elonoog&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
+
+
+
+<br/>
+<br/>
+
