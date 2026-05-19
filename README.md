@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Eloisa Nogueira
 
-**`Desenvolvedora em formação.`**
+**`Desenvolvedora Junior`**
 
-Me chamo Eloisa Nogueira, tenho 27 anos e atualmente estou cursando o quarto semestre da graduação em Análise e Desenvolvimento de Sistemas. 
+Em constante treinamento buscando evoluir meus conhecimentos.
 
 <p align="left">
     <a href="https://github.com/Elonoog?tab=repositories&sort=stargazers">
@@ -21,26 +21,6 @@ Me chamo Eloisa Nogueira, tenho 27 anos e atualmente estou cursando o quarto sem
     </a>
 </p>
 
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Elonoog&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="rigth" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elonoog&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 <p>
 <br/>
 <br/>
